@@ -183,6 +183,6 @@ Migración a TailwindCSS
 
 
 👨‍💻 Autor
-Miguel Angel Casas  
+Miguel A Casas  
 Entrega Final – Curso React.js
 MultiShopExpress
