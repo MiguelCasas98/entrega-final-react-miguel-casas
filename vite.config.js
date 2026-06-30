@@ -5,4 +5,3 @@ export default defineConfig({
   plugins: [react()],
   base: '/entrega-final-react-miguel-casas/'
 })
-

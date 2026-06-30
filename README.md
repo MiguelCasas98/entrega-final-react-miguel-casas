@@ -18,7 +18,7 @@ Incluye navegación por categorías, detalle de productos, carrito de compras, c
 
 ---
 
-## 🧱 Arquitectura del proyecto
+## 🧱 Arquitectura del Proyecto
 
 El proyecto sigue el patrón **Container + View**:
 
@@ -183,6 +183,6 @@ Migración a TailwindCSS
 
 
 👨‍💻 Autor
-Miguel Casas  
+Miguel Angel Casas  
 Entrega Final – Curso React.js
 MultiShopExpress
